@@ -1,0 +1,41 @@
+"==" vs "is"
+== : compares values
+is : compares reference
+
+
+suppose...
+a = 10
+b = 10
+
+in this case
+
+case 1 :
+
+if both and b point to same 10 then
+a -> 10
+b ---^
+a == b : true
+a is b : true
+
+case 2 :
+
+if both a and b point to different 10 then
+a -> 10
+b -> 10
+a == b : true
+a is b : false
+
+values from -6 to 256 are reserved in python
+ie: values in this range will follow case 1
+
+
+
+suppose
+a = 10
+b = 10
+as it is in range -6 to 256... both points to same 10
+now, if you change b to 5
+b = 5
+then value of a will not change
+only b will change... b will point to new object, 5
+this means integers are immutable in python

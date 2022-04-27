@@ -1,0 +1,6 @@
+# following is a list of objects that are mutable in Python
+list
+set
+dict
+
+all others immutable

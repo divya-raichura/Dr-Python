@@ -1,0 +1,8 @@
+# for i in range(4)
+iska matlab hai 4 baar loop run karega, simple!!!
+0 1 2 3 this will be the sequence (n-1)
+# so agar we put 0 in range ie range(0)
+this simply means 0 baar run karega simple!!
+# if we do range(1,5)
+this means 1 se chalu but stop is exclusive so 4 tak jayega
+1 2 3 4, ie it runs stop-start times = 5-1 = 4 times 1 2 3 4

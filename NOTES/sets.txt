@@ -1,0 +1,33 @@
+# https://www.javatpoint.com/python-set
+
+- we cannot directly access any element of the set by the index
+
+- Each element in the set must be unique, immutable, and the sets
+remove the duplicate elements.
+
+- Sets are mutable which means we can modify it after its creation
+
+- It can contain any type of element such as integer, float, tuple etc
+But mutable elements (list, dictionary, set) can't be a member of set
+
+- Creating an empty set is a bit different because empty
+curly {} braces are also used to create a dictionary as well.
+So Python provides the set() method used without an argument to
+create an empty set.
+
+- add() method is used to add a single element whereas the
+update() method is used to add multiple elements to the set.
+
+- we can remove elements from set using discard() or remove()
+  if the item does not exist in the set then
+  discard() => set remains unchanged
+  remove()  => throws error
+
+- pop() is also a method to remove element
+  Generally, the pop() method will always remove the last item but
+  the set is unordered so, we can't determine which element will be
+  popped from set.
+  pop() method could not determine the last element of the set as set is unordered
+
+
+for union, intersection etc see resource

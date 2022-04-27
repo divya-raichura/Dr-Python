@@ -1,0 +1,13 @@
+strongly - python
+loosely  - c
+
+
+if we perform some function on two variables then will it check the
+type or not then it is strongly
+
+eg, if we do..
+a = 10
+b = 'divya'
+a + b --> gives error, we can concatenate string and int
+if we run same in c or java it will pass
+in java it will concatenate and result will be a string

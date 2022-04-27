@@ -1,0 +1,7 @@
+array :-
+
+homogenous ie, if we make int array then we can store only integers
+
+lists :-
+
+heterogeneous ie, we can have different data types in the same list

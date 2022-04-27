@@ -1,0 +1,5 @@
+# https://www.javatpoint.com/python-dictionary
+
+- dictionary is the collection of key-value pairs where the value can
+  be any Python object. In contrast, the keys are the immutable Python
+  object, i.e., Numbers, string, or tuple.

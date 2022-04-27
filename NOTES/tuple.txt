@@ -1,0 +1,18 @@
+similar to list, but it is immutable
+ie, values cannot be changed/modified
+
+# https://www.javatpoint.com/python-tuples
+
+The tuple which is created without using parentheses is also known as tuple packing.
+
+Creating a tuple with single element is slightly different. We will need to put comma after the element to declare the tuple.
+
+tup1 = ("JavaTpoint")
+print(type(tup1))
+#Creating a tuple with single element
+tup2 = ("JavaTpoint",)
+print(type(tup2))
+Output:
+
+<class 'str'>
+<class 'tuple'>
