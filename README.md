@@ -8,6 +8,7 @@
 **Fun projects I made while learning**
 - [Guess the number game](https://github.com/divya-raichura/Dr-Python/blob/main/CODES/small_projects/guess_number_game/guess_number.py)
 - [Rock Paper Scissors](https://github.com/divya-raichura/Dr-Python/blob/main/CODES/small_projects/rps_game/rock_paper_scissor.py)
+- [Zig Zag Infinite Fun Pattern](https://github.com/divya-raichura/Dr-Python/tree/main/CODES/small_projects/ZigZag)
 
 
 # Learning Resources
