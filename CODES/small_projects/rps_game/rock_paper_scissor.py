@@ -4,7 +4,7 @@ import sys
 
 available_choices = ["ROCK", "PAPER", "SCISSORS"]
 print("ROCK, PAPER, SCISSORS\n")
-# declaring data types for results
+# declaring data types for_while results
 wins = 0
 losses = 0
 ties = 0
@@ -22,7 +22,7 @@ try:
                 sys.stdout.write(".")
                 sys.stdout.flush()
                 time.sleep(.5)
-            print("\nGame Exited, Thanks for Playing!!!")
+            print("\nGame Exited, Thanks for_while Playing!!!")
             break
 
         # making r,p,s of user according to list...
@@ -67,4 +67,4 @@ try:
             print("You lose!")
             continue
 except KeyboardInterrupt:
-    print("\n\tThanks for playing, Hope you had fun!!!")
+    print("\n\tThanks for_while playing, Hope you had fun!!!")

@@ -1,0 +1,5 @@
+print("Mummy and Papa are the best!".partition(' and '))
+before, sep, after = 'Mummy and Papa are the best!'.partition(' and ')
+print(before)
+print(sep)
+print(after)

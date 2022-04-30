@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/python-list-comprehensions-vs-generator-expressions/
+https://medium.com/free-code-camp/python-list-comprehensions-vs-generator-expressions-cef70ccb49db#:~:text=The%20generator%20yields%20one%20item,of%20the%20sequence%20on%20demand.

@@ -5,7 +5,7 @@
 
 # a = 4555
 # b = 4555
-# print(a == b)  # why is it giving true for this...
+# print(a == b)  # why is it giving true for_while this...
 # print(a is b)  # in jupyter lab it is giving false
 # print(id(a))
 # print(id(b))

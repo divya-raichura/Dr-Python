@@ -1,15 +1,15 @@
 
 # note: We can use numbers, strings, or tuples as the key, but we
-# cannot use any mutable object like the list as the key in the
-# dictionary.
+# cannot use any mutable object like the list as the key
+
 
 dictionary = {'name': 'elon', 'age': 50, 'job': 'entrepreneur', 'feat': 'billionaire'}
 
-# prints keys
+# prints key
 # for i in dictionary:
 #     print(i)
 
-# prints values
+# prints value
 # for i in dictionary:
 #     print(dictionary[i])
 

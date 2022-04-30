@@ -32,4 +32,4 @@ print(a[-4:-1])  # this prints 34 to 89
 # hence, -4 ka index is smaller than -1 hence 2nd statement prints array and first one prints empty array
 # print(a[-1::-1]) hence this in this reverse type...
 # -1 to end which is last element and jump -1 ie after printing
-# req element go for previous(as jump: -1) element
+# req element go for_while previous(as jump: -1) element

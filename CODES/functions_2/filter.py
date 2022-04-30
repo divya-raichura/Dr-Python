@@ -1,4 +1,4 @@
-# Return an iterator yielding those items of iterable for which function(item)
+# Return an iterator yielding those items of iterable for_while which function(item)
 # is true. If function is None, return the items that are true.
 
 # filter syntax: filter(function that returns boolean, iterable)

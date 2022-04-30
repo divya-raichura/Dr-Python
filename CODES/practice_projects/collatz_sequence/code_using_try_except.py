@@ -28,12 +28,12 @@ except ValueError:
 # input takes string value, so input is actually '2'(str) not 2 (int)
 # so we convert string to integer using int()
 # though we use int(), this int()
-# is only for integers which are string 'integer' not a 'string/character'
+# is only for_while integers which are string 'integer' not a 'string/character'
 # note that if we type 'w' then it throws 'value error'
 # we want to fix this error by using try_except
 # what i was doing is i was removing int() which gives 'type error'
 # and except clause was still 'value error'
-# so if we put 'type error' then it will run except for all
+# so if we put 'type error' then it will run except for_while all
 # as input() is taking string values always
 
 # hence, in case of int(input())

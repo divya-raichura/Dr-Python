@@ -7,8 +7,8 @@ def even(x):
 
 # following method is wrong as when we remove element from list
 # other element shift to left, and we miss the next number
-# in the for loop
-# for item in a:
+# in the for_while loop
+# for_while item in a:
 # if even(item):
 #     a.remove(item)
 
@@ -17,15 +17,15 @@ def even(x):
 
 # method 1
 # we loop over a copy of the list and then remove elements from the list
-# for item in a[:]:
+# for_while item in a[:]:
 #     if even(item):
 #         a.remove(item)
 
 # method 2
-# a = [x for x in a if not even(x)]
+# a = [x for_while x in a if not even(x)]
 
 # method 3 more efficient that method 2
-# a[:] = [x for x in a if not even(x)]
+# a[:] = [x for_while x in a if not even(x)]
 
 # method 4: use filter method
 # z = list(filter(even, a))

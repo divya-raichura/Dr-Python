@@ -3,7 +3,7 @@
 # till the range exceeds this will continue
 a = int(input("enter no of elements: "))
 # b = []
-# for i in range(a):
+# for_while i in range(a):
 #     b.append(input())
 # print(b)
 
@@ -20,8 +20,8 @@ print(l)
 # https://stackoverflow.com/questions/11479392/what-does-a-for-loop-within-a-list-do-in-python
 # note
 # myList = []
-# for i in range(10):
+# for_while i in range(10):
 #     myList.append(i)
 
 # is same as
-# myList = [i for i in range(10)]
+# myList = [i for_while i in range(10)]

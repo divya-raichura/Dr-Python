@@ -7,8 +7,8 @@ n = int(input("pattern rows: "))  # 5
 #    * * * *
 #    * * * * *
 
-# for i in range(n):
-#     for j in range(i + 1):
+# for_while i in range(n):
+#     for_while j in range(i + 1):
 #         print('*', end=' ')
 #     print()
 
@@ -20,8 +20,8 @@ n = int(input("pattern rows: "))  # 5
 #     * *
 #     *
 
-# for i in range(n):
-#     for j in range(n - i):
+# for_while i in range(n):
+#     for_while j in range(n - i):
 #         print('*', end=' ')
 #     print()
 
@@ -33,11 +33,11 @@ n = int(input("pattern rows: "))  # 5
 #     * * * *
 #   * * * * *
 
-# for i in range(n):
+# for_while i in range(n):
 #     spaces = n - 1 - i
-#     for j in range(spaces):
+#     for_while j in range(spaces):
 #         print(' ', end=' ')
-#     for k in range(i + 1):
+#     for_while k in range(i + 1):
 #         print('*', end=' ')
 #     print()
 
@@ -49,12 +49,12 @@ n = int(input("pattern rows: "))  # 5
 #      * * * * * * *
 #    * * * * * * * * *
 
-# for i in range(n):
+# for_while i in range(n):
 #     spaces = n - 1 - i
-#     for j in range(spaces):
+#     for_while j in range(spaces):
 #         print(' ', end=' ')
-#     for k in range(i):  # remove i '+ 1' from here or from for loop below
+#     for_while k in range(i):  # remove i '+ 1' from here or from for_while loop below
 #         print('*', end=' ')
-#     for j in range(i + 1):
+#     for_while j in range(i + 1):
 #         print('*', end=' ')
 #     print()

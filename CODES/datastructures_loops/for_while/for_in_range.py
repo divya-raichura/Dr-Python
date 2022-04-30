@@ -1,24 +1,24 @@
 # https://www.javatpoint.com/python-for-loop
-# we can use for with else loop : look at :
+# we can use for_while with else loop : look at :
 # https://www.javatpoint.com/python-for-loop
 
 # range(start,stop,step size)
 
 
-# printing the table using for in range
+# printing the table using for_while in range
 
 # note: range(4) means... 0 --> 1 --> 2 --> 3
 n = int(input('enter a number whose table you want to print: '))
-# for i in range(1, 11):
+# for_while i in range(1, 11):
 #     a = n * i
 #     print(n, "*", i, "=", a)
 
 # lis = ["Divya", "Kunal", "Elon"]
-# for i in range(len(lis)):
+# for_while i in range(len(lis)):
 #     print("hello", lis[i] + '!')
 
-# loop doesn't run for this
-# for var_name in range(0):
+# loop doesn't run for_while this
+# for_while var_name in range(0):
 #     print('1')
 
 
@@ -33,13 +33,13 @@ n = int(input('enter a number whose table you want to print: '))
 # and range will be 0->1->2->3->4
 # so that, outer loop runs : 5 times but,
 #          inner loop runs : 4 times as req by user
-# User input for number of rows
+# User input for_while number of rows
 # rows = int(input("Enter the rows:"))
 # Outer loop will print number of rows
-# for i in range(rows):
+# for_while i in range(rows):
 # Inner loop will print number of Asterisk
 # row no = no of asterisk
-# for j in range(i):
+# for_while j in range(i):
 #     print("*", end='')
 # print()
 
@@ -47,11 +47,11 @@ n = int(input('enter a number whose table you want to print: '))
 # a = list(range(1, 10, 2))
 # print(a)
 
-# making list using for in range
-# a = [i for i in range(1, 11)]
+# making list using for_while in range
+# a = [i for_while i in range(1, 11)]
 # print(a)
 
-# making a list of a table like this using for inside it
+# making a list of a table like this using for_while inside it
 table = [n * i for i in range(1, 11)]
 print(table)
 

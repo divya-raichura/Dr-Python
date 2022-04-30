@@ -1,10 +1,10 @@
 # https://www.javatpoint.com/python-for-loop
 
 s = "Elon Musk"
-# for ch in s:
+# for_while ch in s:
 #     print(ch, end='')
 # print('\n')
-# using index in for loops in python
+# using index in for_while loops in python
 
 for i in range(len(s)):
     print(i, s[i])

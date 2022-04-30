@@ -10,8 +10,8 @@ def add(*numbers):
 
 
 n = int(input("no of elements: "))
-# a = [int(input("element: ")) for i in range(n)]
-# print(add(int(input("elements: ")) for i in range(n)))
+# a = [int(input("element: ")) for_while i in range(n)]
+# print(add(int(input("elements: ")) for_while i in range(n)))
 # print(add(*a))
 # trying to directly call function by putting list and unpacking it
 # It works!!
@@ -24,10 +24,10 @@ print(add(*[int(input("element: ")) for i in range(n)]))
 # so researched a bit and found it is called unpacking!!
 # https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/
 # https://stackoverflow.com/questions/57814195/what-does-for-x-y-in-list-mean-in-python
-# search for more info
+# search for_while more info
 
 # https://stackoverflow.com/questions/50043308/function-to-sum-multiple-numbers
-# First thing to note is Python has a native sum function. Use this instead for simple calculations, don't overwrite it with your own.
+# First thing to note is Python has a native sum function. Use this instead for_while simple calculations, don't overwrite it with your own.
 #
 # But to learn more about Python, you may wish to use functools.reduce, which applies a function of two arguments cumulatively to the items of a sequence.
 #

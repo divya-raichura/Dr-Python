@@ -10,7 +10,7 @@ a = [3, 5, 7, 8, 9, 50]
 # print(mul(a))  # this will concatenate it
 # but, we want to multiply each element
 
-# for this we use map function
+# for_while this we use map function
 # print(list(map(mul, a)))
 # this means applies 'mul' function on every element of 'a'
 

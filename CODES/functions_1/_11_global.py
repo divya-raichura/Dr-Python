@@ -1,5 +1,5 @@
 # def fun():
-#     # global spam # spam becomes global only for this function
+#     # global spam # spam becomes global only for_while this function
 #     spam = 'local fun'
 #     print(spam)
 #     nuf()
@@ -17,7 +17,7 @@
 # fun()
 # print(spam)
 
-# global is only for telling 'functions' to use global scope variable
+# global is only for_while telling 'functions' to use global scope variable
 
 
 # following gives error because
@@ -41,7 +41,7 @@ eggs = 'global'
 spam()
 
 # This error happens because Python sees that there is an
-# assignment statement for eggs in the spam() function ➊
+# assignment statement for_while eggs in the spam() function ➊
 # and, therefore, considers eggs to be local. But because
 # print(eggs) is executed before eggs is assigned anything,
 # the local variable eggs doesn't exist. Python will not fall

@@ -3,9 +3,9 @@
 # V IMP NOTE:
 #  Loop statements may have an else clause; it is executed when
 #  the loop terminates through exhaustion of the iterable
-#  (with for) or when the condition becomes false (with while),
+#  (with for_while) or when the condition becomes false (with while),
 #  but not when the loop is terminated by a break statement.
-#  This is exemplified by the following loop, which searches for
+#  This is exemplified by the following loop, which searches for_while
 #  prime numbers:-
 
 for n in range(2, 10):

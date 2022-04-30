@@ -6,6 +6,7 @@ e = dict([('hello', 'divya'), ('hi', 'elon')])
 
 # keys of dictionary should be immutable
 
+# sets:-
 # It can contain any type of element such as integer, float,
 # tuple etc. But mutable elements (list, dictionary, set) can't
 # be a member of set

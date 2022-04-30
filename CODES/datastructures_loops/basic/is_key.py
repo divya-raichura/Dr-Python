@@ -1,5 +1,5 @@
 # A mutable data-types do not refer to the same object.
-# hence, using 'is' for lists gives false
+# hence, using 'is' for_while lists_tuple_operations gives false
 # but == checks value, so it gives true
 a = 4
 b = 4

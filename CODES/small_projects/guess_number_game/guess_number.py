@@ -1,7 +1,7 @@
 import random
 
 print("I am thinking of a number between 1 and 100.")
-decision = input("Want to guess it? y for yes / n for no: ").lower()
+decision = input("Want to guess it? y for_while yes / n for_while no: ").lower()
 
 while decision == 'y':
     count = 0

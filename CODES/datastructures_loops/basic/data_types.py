@@ -12,12 +12,12 @@ print("type:", type(c), "\ninstance:", isinstance(c, complex))
 
 #  2: string
 
-#  3: lists
+#  3: lists_tuple_operations
 list1 = [1, 2, 'divya']  # can change element and perform various
 # ops like slicing [ : : ],  repeating strings * , concatenation +
 
 #  4: tuple
-# same like lists but we cannot update the value inside it, ie its
+# same like lists_tuple_operations but we cannot update the value inside it, ie its
 # elements are immutable
 tup = (1, 3, 45, 'divya')
 
