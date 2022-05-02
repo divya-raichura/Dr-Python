@@ -1,7 +1,7 @@
 # Dr-Python
 - I started learning Python a few days ago (Month: April)
 - I am creating this repo for documenting my journey
-- The repo consists of all my python codes wrote on PyCharm and Jupyter notebook!!!
+- The repo consists of all my python codes.
 
 
 # Projects
