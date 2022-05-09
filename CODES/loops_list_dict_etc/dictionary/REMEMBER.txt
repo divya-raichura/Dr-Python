@@ -1,0 +1,27 @@
+e = dict([('hello', 'divya'), ('hi', 'elon')])
+# dict requires at most one argument, hence we made tuples inside
+# list so that they all together are a single argument
+# also, inside tuples also we need to create only 2 elements
+# gives error if we create more or less than 2 elements inside tuple
+
+# keys of dictionary should be immutable
+
+# sets:-
+# It can contain any type of element such as integer, float,
+# tuple etc. But mutable elements (list, dictionary, set) can't
+# be a member of set
+
+
+# following are for sets:
+- discard() = if the item doesn't exist then set remains unchanged
+- remove()  = if...then throws error
+- add()     = can add one item
+- update()  = multiple items
+
+# frozenset() :-
+# The frozen sets are the immutable form of the normal sets
+# the items of the frozen set cannot be changed, and therefore it can be used
+# as a key in the dictionary. If we pass the dictionary as the sequence inside
+# the frozenset() method, it will take only the keys from the dictionary
+# and returns a frozenset that contains the key of the dictionary as its elements.
+

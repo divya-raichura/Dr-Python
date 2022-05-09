@@ -1,0 +1,6 @@
+- size of int in python is the ram you are having in ur computer
+- python is slow as compared to other languages as size is not fixed
+  and the dynamic memory allocation
+- also, cause everything is object in python, this makes it slow as
+  the primitive data types consume less memory and can be
+  accessed faster
