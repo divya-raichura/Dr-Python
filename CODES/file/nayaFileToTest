@@ -1,0 +1,2 @@
+To test if we write to file that doesn't exist then it will make new one and write in it or not? 
+If this file exists then the ans is Yes

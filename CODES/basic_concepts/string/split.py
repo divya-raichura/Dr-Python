@@ -6,6 +6,7 @@ print("mummy and papa and vedika and divya".split())
 # You can pass a delimiter string to the split() method to
 # specify a different string to split upon
 print('mummy and papa and vedika and divya'.split(' and '))
-
+print('5   8'.split())  # ['5', '8']
+print(list(map(int, '5   8'.split())))
 
 
