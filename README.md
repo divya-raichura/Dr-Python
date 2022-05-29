@@ -7,4 +7,4 @@
 # Projects
 **Fun projects I made while learning**
 - [projects folder](https://github.com/divya-raichura/Dr-Python/tree/main/CODES/project_stuff)
-- [play random videos in a folder]([url](https://github.com/divya-raichura/Dr-Python/tree/main/_Supercool_Projects))
+- [play random videos in a folder](https://github.com/divya-raichura/Dr-Python/tree/main/_Supercool_Projects)
