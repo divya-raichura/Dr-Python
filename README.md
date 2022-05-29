@@ -6,13 +6,5 @@
 
 # Projects
 **Fun projects I made while learning**
-- [Guess the number game](https://github.com/divya-raichura/Dr-Python/blob/main/CODES/small_projects/guess_number_game/guess_number.py)
-- [Rock Paper Scissors](https://github.com/divya-raichura/Dr-Python/blob/main/CODES/small_projects/rps_game/rock_paper_scissor.py)
-- [Zig Zag Infinite Fun Pattern](https://github.com/divya-raichura/Dr-Python/tree/main/CODES/small_projects/ZigZag)
-
-
-# Learning Resources
-**I am using following resources to learn Python**
-- [Javatpoint](https://www.javatpoint.com/python-tutorial)
-- [Python Official Docs](https://docs.python.org/3/tutorial/index.html)
-- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/#toc)
+- [projects folder](https://github.com/divya-raichura/Dr-Python/tree/main/CODES/project_stuff)
+- [play random videos in a folder]([url](https://github.com/divya-raichura/Dr-Python/tree/main/_Supercool_Projects))
