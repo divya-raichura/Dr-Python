@@ -1,5 +1,6 @@
 # https://www.javatpoint.com/python-files-io
-# if file opened in read mode & it doesn't exist & we try to read it, then file not found exception
+# if file opened in read mode & it doesn't exist & we try to read it,
+# then file not found exception
 
 # a = open("yeFileHai.txt", "w")  # creates new file if no file exists
 # same with "a"

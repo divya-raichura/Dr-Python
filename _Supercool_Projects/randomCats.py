@@ -21,8 +21,5 @@ random_video = random.choice(os.listdir(folder_choice_path))
 print('Enjoy Catzzzz')
 
 # to play this randomly selected video :
-os.system("start " +  random_video)
-
-
-
+os.system("start " + random_video)
 
